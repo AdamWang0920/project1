@@ -2,6 +2,8 @@ package module01_05;
 
 public class ExceptionFlow2 {
 // git test
+	//Git測試用！！
+
 	public static void main(String[] args) {
 		try {
 			method();
